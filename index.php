@@ -6,18 +6,7 @@
  * Time: 2:32 PM
  */
 
-echo 'hello with jenkins';
+echo 'hello with jenkins enabled';
 ?>
-<!DOCTYPE html>
-<html>
-    <title>
 
-    </title>
-    <head>
-
-    </head>
-    <body>
-        <h1>hello</h1>
-    </body>
-</html>
 
