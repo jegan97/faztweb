@@ -6,7 +6,7 @@
  * Time: 2:32 PM
  */
 
-echo 'hello with jenkins enabled';
+echo 'hello world';
 
 
 
