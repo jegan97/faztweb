@@ -7,6 +7,6 @@
  */
 
 echo 'hello with jenkins enabled';
-?>
+
 
 
